@@ -13,3 +13,5 @@ Each workshop hposted by CETI will have a representative page with related conte
 3. update the index.md page with a link to your workshop page.
 
 Questions? Contact Alanna Risse
+
+IMPORTANT NOTE: Gitrhub pages takes sev eral minutes to update. If you aren't see your changes go live, do not fret! Just give it 5 minutes. You can also try doing a "hard refresh" on the browser window: command+shift+r on a mac or cntrl+shift+r on windows.
