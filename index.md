@@ -8,7 +8,7 @@ This site is a place for all supporting content around workshops given through C
 
 ## RAHS Summer Programming
 
- - Make a Drawing Application: Create a black and white web-based drawing tool using javascript and the p5.js library. 
+ - [Make a Drawing Application:](drawing-app-p5js.md) Create a black and white web-based drawing tool using javascript and the p5.js library. 
 instructor: Alanna Risse
 instruction dates: 7/28/2022 and 7/29/2022
 
