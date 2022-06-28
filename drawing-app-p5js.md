@@ -1,7 +1,6 @@
 # Create a drawing application using Javascript and p5.js
 ### Instructor: Alanna Risse
-### initial instruction dates: 7/28/2022 & 7/29/2022
-### Project: RAHS Summer programming 2022
+### initial instruction dates: Summer 2022
 <img width="1429" alt="Screenshot 2022-06-27 at 6 52 06 PM" src="https://user-images.githubusercontent.com/1093855/176070239-c7e33812-95c8-45c5-8a57-45635e89125c.png">
 
 
