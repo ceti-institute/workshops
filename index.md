@@ -11,7 +11,13 @@ This site is a place for all supporting content around workshops given through C
  - [Make a Drawing Application:](drawing-app-p5js.md) Create a black and white web-based drawing tool using javascript and the p5.js library. 
 instructor: Alanna Risse
 instruction dates: 7/28/2022 and 7/29/2022
+- Some workshop name
+instructor: Yosemite Same
+Instruction dates: 7/28/2022
 
-
+## Enchanted Tech Summer 2022
+- some workshop name
+instructor: Yosemite Same
+Instruction dates: 7/28/2022
 
 Note for editors new to markdown. [Check out Adam P's Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
