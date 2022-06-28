@@ -8,4 +8,10 @@ This site is a place for all supporting content around workshops given through C
 
 ## RAHS Summer Programming
 
-### Drawing app
+ - Make a Drawing Application: Create a black and white web-based drawing tool using javascript and the p5.js library. 
+instructor: Alanna Risse
+instruction dates: 7/28/2022 and 7/29/2022
+
+
+
+Note for editors new to markdown. [Check out Adam P's Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
